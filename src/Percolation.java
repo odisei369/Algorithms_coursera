@@ -1,5 +1,3 @@
-package week1;
-
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
@@ -77,7 +75,7 @@ public class Percolation {
         }
     }
     public static void main(String[] args){
-//        week1.Percolation p = new week1.Percolation(3);
+//        Percolation p = new Percolation(3);
 //        //System.out.println(p.percolates());
 //        p.open(1,1);
 //        p.open(1,2);
